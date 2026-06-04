@@ -5,7 +5,6 @@
 ### A Vietnamese Computer Science student interested in AI and Deep Learning
 
 [![GitHub Focus](https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20NLP-blueviolet?style=for-the-badge)](https://github.com/abcdef54)
-[![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)](https://github.com/abcdef54)
 
 </div>
 
