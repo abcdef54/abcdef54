@@ -13,14 +13,14 @@
 
 ### About Me
 
-Hello! I am a student developer passionate about building practical applications with neural networks, focusing primarily on Computer Vision and Natural Language Processing. Below are some of my key projects:
+Hello! I am a student developer passionate about building practical AI/Deep Learning applications. Below are some of my key projects:
 
-* 🔬 **[Traffic Sign Detection](https://github.com/abcdef54/Traffic-Sign-Detection):** A real-time, hardware-accelerated vision pipeline utilizing custom YOLO (v11s/v8n) models, optimized via NVIDIA TensorRT, and integrated with Slicing Aided Hyper Inference (SAHI) for small object precision.
-* 🛡️ **[Fake News Detection](https://github.com/abcdef54/FakeNewsDetection):** An NLP ensemble framework for classifying Vietnamese misinformation, featuring dense-sparse hybrid retrieval (FAISS + Rank-BM25), Transformers, and Captum token attribution for interpretability.
-* 🧠 **[Athena](https://github.com/abcdef54/Athena):** A modular, asynchronous RAG-driven cognitive agent backend engineered with FastAPI, LangChain/LangGraph, and PostgreSQL/Chroma DB.
+* 🔬 **[Traffic Sign Detection](https://github.com/abcdef54/Traffic-Sign-Detection):** Real-time, TensorRT-optimized YOLO pipeline using SAHI slicing for high-accuracy small object detection.
+* 🛡️ **[Fake News Detection](https://github.com/abcdef54/FakeNewsDetection):** Vietnamese NLP ensemble featuring hybrid semantic search (FAISS + BM25) and Captum model interpretability.
+* 🧠 **[Athena](https://github.com/abcdef54/Athena):** Asynchronous, modular RAG cognitive agent backend built with FastAPI, LangChain, and Chroma DB.
 
-* 🌱 **Areas of Active Learning:** High-performance model inference optimization, asynchronous system design, and foundational optimization mathematics.
 * 👨‍💻 **Code Repository:** The full source implementations for my work are accessible at [github.com/abcdef54](https://github.com/abcdef54).
+
 * 📫 **Contact:** You can reach me via email at **nguyenminhhuy2905@gmail.com**.
 
 ---
